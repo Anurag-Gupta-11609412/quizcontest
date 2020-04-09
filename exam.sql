@@ -1,9 +1,6 @@
 -- phpMyAdmin SQL Dump
 -- version 4.7.7
--- https://www.phpmyadmin.net/
---
--- Host: 127.0.0.1
--- Generation Time: Jun 04, 2018 at 08:02 AM
+-- Host: 127.0.0.
 -- Server version: 10.1.30-MariaDB
 -- PHP Version: 7.2.2
 
@@ -39,7 +36,7 @@ CREATE TABLE `admin` (
 --
 
 INSERT INTO `admin` (`admin_id`, `email`, `password`) VALUES
-(1, 'suryaprasadtripathy8@gmail.com', 'pinkylove');
+(1, 'g.anurag1997@gmail.com', '123456');
 
 -- --------------------------------------------------------
 
